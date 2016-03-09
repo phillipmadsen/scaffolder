@@ -10,7 +10,7 @@
         "controllers": "app:Http/Controllers/",
         "views": "base:resources/views/",
         "assets": "base:public/",
-        "routes": "app:Http/routes.php"
+        "routes": "app:Http/routes.php",
         "developer": "app:Http/developer_routes.php"
     },
     "namespaces": {
